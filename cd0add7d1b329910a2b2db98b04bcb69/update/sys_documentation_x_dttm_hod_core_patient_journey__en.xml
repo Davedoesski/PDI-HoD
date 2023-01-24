@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Patient Journey" language="en" table="x_dttm_hod_core_patient_journey">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Patient Journey</label>
+            <language>en</language>
+            <name>x_dttm_hod_core_patient_journey</name>
+            <plural>Patient Journeys</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Dave.Smith</sys_created_by>
+            <sys_created_on>2023-01-24 06:37:25</sys_created_on>
+            <sys_name>Patient Journey</sys_name>
+            <sys_package display_value="Hospital On Duty Core" source="x_dttm_hod_core">cd0add7d1b329910a2b2db98b04bcb69</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hospital On Duty Core">cd0add7d1b329910a2b2db98b04bcb69</sys_scope>
+            <sys_update_name>sys_documentation_x_dttm_hod_core_patient_journey__en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
