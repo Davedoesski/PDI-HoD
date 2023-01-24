@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="7aa7e78a47e02110e6432c44846d433f" label="Patient Journey" max_length="40" name="x_dttm_hod_core_patient_journey" type="collection"/>
+    <element db_object_id="7aa7e78a47e02110e6432c44846d433f" label="Patient Journey" max_length="40" name="x_dttm_hod_core_patient_journey" type="collection">
+        <element label="Discharge Time" max_length="40" name="discharge_time" type="glide_date_time"/>
+    </element>
 </database>
