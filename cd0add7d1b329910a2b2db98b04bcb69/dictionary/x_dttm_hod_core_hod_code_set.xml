@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e8c39d5a47542110e6432c44846d43e4" extends="sn_hcls_code_set" label="HoD Code Set" max_length="40" name="x_dttm_hod_core_hod_code_set" type="collection"/>
+</database>

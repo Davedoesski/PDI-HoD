@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2843519d1bfb91101e34fd131d4bcb9a" extends="sn_hcls_task" label="Clinical Task" max_length="40" name="x_dttm_hod_core_clinical_task" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Patient Location" max_length="32" name="patient_location" reference="sn_hcls_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Specialty" max_length="32" name="specialty" reference="sn_hcls_practitioner_specialty" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Task Requester Contact" max_length="40" name="task_requester_contact" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Temporary Patient Location" max_length="32" name="temporary_patient_location" reference="sn_hcls_location" type="reference"/>
+    </element>
+</database>

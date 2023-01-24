@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD660ea5786ce7dd1025bd0b9aaeda57e3</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>cd0add7d1b329910a2b2db98b04bcb69</scope_name>
+        <serialized_content>{"FlowDesigner:FD660ea5786ce7dd1025bd0b9aaeda57e3":{"nextTaskId":"String","nextTaskId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"nextTaskId\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"377ba9be-6a8f-4a79-9071-0d3aee65a7af\"}"},"processInstanceId":"String","processInstanceId.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"processInstanceId\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"19d7898d-8ddb-4bc4-923b-869cc64016ac\"}"},"started":[{"$7_started":{"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"id\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"57abdeba-63c1-466b-b4b4-52477b0876ea\"}"},"taskInputDefinitionKey":"String","taskInputDefinitionKey.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"taskInputDefinitionKey\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"2a9b76cf-8e48-4d38-95da-ed989b37c86d\"}"}}}],"started.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"started\",\"mandatory\":\"false\",\"child_name\":\"started_object\",\"uiUniqueId\":\"f3647fc0-c56a-4694-80ee-e9e5f5920bfa\",\"uiTypeLabel\":\"Array.Object\",\"child_label\":\"started_object\",\"child_type_label\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"3\",\"max_length\":\"0\",\"child_uiUniqueId\":\"d41968e2-8188-43d3-bff6-72b91835b2cd\"}"}},"FlowDesigner:FD660ea5786ce7dd1025bd0b9aaeda57e3.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"root\",\"mandatory\":\"false\",\"uiUniqueId\":\"6e7330cc-c5ae-4f74-b75b-f0ec9b176b6d\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD660ea5786ce7dd1025bd0b9aaeda57e3\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>deloitte.mkempen</sys_created_by>
+        <sys_created_on>2022-12-01 07:30:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2a0ea5781be7dd101e34fd131d4bcbe3</sys_id>
+        <sys_name>FD660ea5786ce7dd1025bd0b9aaeda57e3</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Hospital On Duty Core" source="x_dttm_hod_core">cd0add7d1b329910a2b2db98b04bcb69</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital On Duty Core">cd0add7d1b329910a2b2db98b04bcb69</sys_scope>
+        <sys_update_name>sys_complex_object_2a0ea5781be7dd101e34fd131d4bcbe3</sys_update_name>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

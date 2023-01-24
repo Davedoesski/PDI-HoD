@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2a9e197447202110e6432c44846d4386" label="Clinical Audit" max_length="40" name="x_dttm_hod_core_clinical_audit" type="collection">
+        <element label="Document" max_length="32" name="document" type="document_id"/>
+        <element label="Opened At" max_length="40" name="opened_at" type="glide_date_time"/>
+        <element label="Table Name" max_length="80" name="table_name" reference="sys_db_object" type="table_name"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="document"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

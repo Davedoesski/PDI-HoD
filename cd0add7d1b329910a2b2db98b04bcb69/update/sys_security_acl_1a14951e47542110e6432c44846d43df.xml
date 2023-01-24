@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_dttm_hod_core_hod_code_set</description>
+        <name>x_dttm_hod_core_hod_code_set</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>deloitte.dsmith3</sys_created_by>
+        <sys_created_on>2023-01-12 04:14:50</sys_created_on>
+        <sys_id>1a14951e47542110e6432c44846d43df</sys_id>
+        <sys_name>x_dttm_hod_core_hod_code_set</sys_name>
+        <sys_package display_value="Hospital On Duty Core" source="x_dttm_hod_core">cd0add7d1b329910a2b2db98b04bcb69</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital On Duty Core">cd0add7d1b329910a2b2db98b04bcb69</sys_scope>
+        <sys_update_name>sys_security_acl_1a14951e47542110e6432c44846d43df</sys_update_name>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
