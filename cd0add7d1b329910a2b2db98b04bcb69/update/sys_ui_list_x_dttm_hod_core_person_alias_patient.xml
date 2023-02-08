@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_dttm_hod_core_person_alias" version="2" view="patient">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>id_value</element>
+            <list_id display_value="x_dttm_hod_core_person_alias" element="NULL" name="x_dttm_hod_core_person_alias" parent="NULL" relationship="NULL" sys_domain="global" view="44f4054aebe930102bd89843d852288c">02a338f447702110e6432c44846d434d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>deloitte.dsmith3</sys_created_by>
+            <sys_created_on>2023-02-01 06:33:36</sys_created_on>
+            <sys_id>0ea338f447702110e6432c44846d434d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>deloitte.dsmith3</sys_updated_by>
+            <sys_updated_on>2023-02-01 06:33:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>id_type</element>
+            <list_id display_value="x_dttm_hod_core_person_alias" element="NULL" name="x_dttm_hod_core_person_alias" parent="NULL" relationship="NULL" sys_domain="global" view="44f4054aebe930102bd89843d852288c">02a338f447702110e6432c44846d434d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>deloitte.dsmith3</sys_created_by>
+            <sys_created_on>2023-02-01 06:33:36</sys_created_on>
+            <sys_id>8ea338f447702110e6432c44846d434d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>deloitte.dsmith3</sys_updated_by>
+            <sys_updated_on>2023-02-01 06:33:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>given_names</element>
+            <list_id display_value="x_dttm_hod_core_person_alias" element="NULL" name="x_dttm_hod_core_person_alias" parent="NULL" relationship="NULL" sys_domain="global" view="44f4054aebe930102bd89843d852288c">02a338f447702110e6432c44846d434d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>deloitte.dsmith3</sys_created_by>
+            <sys_created_on>2023-02-01 06:33:36</sys_created_on>
+            <sys_id>02a338f447702110e6432c44846d434e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>deloitte.dsmith3</sys_updated_by>
+            <sys_updated_on>2023-02-01 06:33:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>last_name</element>
+            <list_id display_value="x_dttm_hod_core_person_alias" element="NULL" name="x_dttm_hod_core_person_alias" parent="NULL" relationship="NULL" sys_domain="global" view="44f4054aebe930102bd89843d852288c">02a338f447702110e6432c44846d434d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>deloitte.dsmith3</sys_created_by>
+            <sys_created_on>2023-02-01 06:33:36</sys_created_on>
+            <sys_id>82a338f447702110e6432c44846d434e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>deloitte.dsmith3</sys_updated_by>
+            <sys_updated_on>2023-02-01 06:33:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>date_of_birth</element>
+            <list_id display_value="x_dttm_hod_core_person_alias" element="NULL" name="x_dttm_hod_core_person_alias" parent="NULL" relationship="NULL" sys_domain="global" view="44f4054aebe930102bd89843d852288c">02a338f447702110e6432c44846d434d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>deloitte.dsmith3</sys_created_by>
+            <sys_created_on>2023-02-01 06:33:36</sys_created_on>
+            <sys_id>06a338f447702110e6432c44846d434e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>deloitte.dsmith3</sys_updated_by>
+            <sys_updated_on>2023-02-01 06:33:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>patient</element>
+            <list_id display_value="x_dttm_hod_core_person_alias" element="NULL" name="x_dttm_hod_core_person_alias" parent="NULL" relationship="NULL" sys_domain="global" view="44f4054aebe930102bd89843d852288c">02a338f447702110e6432c44846d434d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>deloitte.dsmith3</sys_created_by>
+            <sys_created_on>2023-02-01 06:33:36</sys_created_on>
+            <sys_id>86a338f447702110e6432c44846d434e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>deloitte.dsmith3</sys_updated_by>
+            <sys_updated_on>2023-02-01 06:33:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>patient.external_id</element>
+            <list_id display_value="x_dttm_hod_core_person_alias" element="NULL" name="x_dttm_hod_core_person_alias" parent="NULL" relationship="NULL" sys_domain="global" view="44f4054aebe930102bd89843d852288c">02a338f447702110e6432c44846d434d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>deloitte.dsmith3</sys_created_by>
+            <sys_created_on>2023-02-01 06:33:36</sys_created_on>
+            <sys_id>0aa338f447702110e6432c44846d434e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>deloitte.dsmith3</sys_updated_by>
+            <sys_updated_on>2023-02-01 06:33:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>patient.name</element>
+            <list_id display_value="x_dttm_hod_core_person_alias" element="NULL" name="x_dttm_hod_core_person_alias" parent="NULL" relationship="NULL" sys_domain="global" view="44f4054aebe930102bd89843d852288c">02a338f447702110e6432c44846d434d</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>deloitte.dsmith3</sys_created_by>
+            <sys_created_on>2023-02-01 06:33:36</sys_created_on>
+            <sys_id>8aa338f447702110e6432c44846d434e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>deloitte.dsmith3</sys_updated_by>
+            <sys_updated_on>2023-02-01 06:33:36</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_dttm_hod_core_person_alias</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>deloitte.dsmith3</sys_created_by>
+            <sys_created_on>2023-02-01 06:33:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>02a338f447702110e6432c44846d434d</sys_id>
+            <sys_name>x_dttm_hod_core_person_alias</sys_name>
+            <sys_package display_value="Hospital On Duty Core" source="x_dttm_hod_core">cd0add7d1b329910a2b2db98b04bcb69</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hospital On Duty Core">cd0add7d1b329910a2b2db98b04bcb69</sys_scope>
+            <sys_update_name>sys_ui_list_x_dttm_hod_core_person_alias_patient</sys_update_name>
+            <sys_user/>
+            <view display_value="patient" name="patient">44f4054aebe930102bd89843d852288c</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

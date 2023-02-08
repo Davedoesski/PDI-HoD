@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="e513c37d47142110e6432c44846d43c7" label="Patient" max_length="40" name="sn_hcls_patient" type="collection">
+        <element label="Merged Patient" max_length="40" name="x_dttm_hod_core_merged_patient" type="boolean"/>
+    </element>
+</database>

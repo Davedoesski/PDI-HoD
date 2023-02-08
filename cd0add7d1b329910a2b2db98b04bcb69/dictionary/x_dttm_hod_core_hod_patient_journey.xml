@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fbbecb3f1b50a1101e34fd131d4bcbb4" max_length="40" name="x_dttm_hod_core_hod_patient_journey" type="collection">
+        <element label="Hospitalisation" max_length="32" name="hospitalisation" reference="x_dttm_hcls_austra_hospitalisation" type="reference"/>
+        <index name="index9">
+            <element name="hospitalisation"/>
+        </index>
+    </element>
+</database>

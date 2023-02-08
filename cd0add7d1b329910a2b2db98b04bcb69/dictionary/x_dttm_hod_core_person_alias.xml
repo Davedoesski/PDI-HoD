@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5e76f3121b60e9101e34fd131d4bcb7a" max_length="40" name="x_dttm_hod_core_person_alias" type="collection">
+        <element label="Date Of Birth" max_length="40" name="date_of_birth" type="glide_date"/>
+        <element label="Given Names" max_length="200" name="given_names" type="string"/>
+        <element label="Last Name" max_length="100" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" display="true" label="Patient" max_length="32" name="patient" reference="sn_hcls_patient" type="reference"/>
+        <index name="index2">
+            <element name="patient"/>
+        </index>
+    </element>
+</database>

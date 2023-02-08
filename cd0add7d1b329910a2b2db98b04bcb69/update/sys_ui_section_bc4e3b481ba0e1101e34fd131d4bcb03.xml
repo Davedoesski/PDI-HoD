@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Quick View" section_id="bc4e3b481ba0e1101e34fd131d4bcb03" sys_domain="global" table="x_dttm_hod_core_hod_patient_journey" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>deloitte.dsoo</sys_created_by>
+            <sys_created_on>2023-01-18 03:32:17</sys_created_on>
+            <sys_id>dde344dc1ba0e1101e34fd131d4bcb2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quick View" display_value="Quick View" name="x_dttm_hod_core_hod_patient_journey" sys_domain="global" view="Default view">bc4e3b481ba0e1101e34fd131d4bcb03</sys_ui_section>
+            <sys_updated_by>deloitte.dsoo</sys_updated_by>
+            <sys_updated_on>2023-01-18 03:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>patient</element>
+            <position>1</position>
+            <sys_created_by>deloitte.dsoo</sys_created_by>
+            <sys_created_on>2023-01-18 03:32:17</sys_created_on>
+            <sys_id>d5e344dc1ba0e1101e34fd131d4bcb2c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quick View" display_value="Quick View" name="x_dttm_hod_core_hod_patient_journey" sys_domain="global" view="Default view">bc4e3b481ba0e1101e34fd131d4bcb03</sys_ui_section>
+            <sys_updated_by>deloitte.dsoo</sys_updated_by>
+            <sys_updated_on>2023-01-18 03:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>medical_unit</element>
+            <position>2</position>
+            <sys_created_by>deloitte.dsoo</sys_created_by>
+            <sys_created_on>2023-01-18 03:32:17</sys_created_on>
+            <sys_id>d9e344dc1ba0e1101e34fd131d4bcb2c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quick View" display_value="Quick View" name="x_dttm_hod_core_hod_patient_journey" sys_domain="global" view="Default view">bc4e3b481ba0e1101e34fd131d4bcb03</sys_ui_section>
+            <sys_updated_by>deloitte.dsoo</sys_updated_by>
+            <sys_updated_on>2023-01-18 03:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>treating_consultant</element>
+            <position>3</position>
+            <sys_created_by>deloitte.dsoo</sys_created_by>
+            <sys_created_on>2023-01-18 03:32:17</sys_created_on>
+            <sys_id>dde344dc1ba0e1101e34fd131d4bcb2c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quick View" display_value="Quick View" name="x_dttm_hod_core_hod_patient_journey" sys_domain="global" view="Default view">bc4e3b481ba0e1101e34fd131d4bcb03</sys_ui_section>
+            <sys_updated_by>deloitte.dsoo</sys_updated_by>
+            <sys_updated_on>2023-01-18 03:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>refering_consultant</element>
+            <position>4</position>
+            <sys_created_by>deloitte.dsoo</sys_created_by>
+            <sys_created_on>2023-01-18 03:32:17</sys_created_on>
+            <sys_id>d1e344dc1ba0e1101e34fd131d4bcb2d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quick View" display_value="Quick View" name="x_dttm_hod_core_hod_patient_journey" sys_domain="global" view="Default view">bc4e3b481ba0e1101e34fd131d4bcb03</sys_ui_section>
+            <sys_updated_by>deloitte.dsoo</sys_updated_by>
+            <sys_updated_on>2023-01-18 03:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>consulting_consultant</element>
+            <position>5</position>
+            <sys_created_by>deloitte.dsoo</sys_created_by>
+            <sys_created_on>2023-01-18 03:32:17</sys_created_on>
+            <sys_id>d5e344dc1ba0e1101e34fd131d4bcb2d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quick View" display_value="Quick View" name="x_dttm_hod_core_hod_patient_journey" sys_domain="global" view="Default view">bc4e3b481ba0e1101e34fd131d4bcb03</sys_ui_section>
+            <sys_updated_by>deloitte.dsoo</sys_updated_by>
+            <sys_updated_on>2023-01-18 03:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>deloitte.dsoo</sys_created_by>
+            <sys_created_on>2023-01-18 03:32:17</sys_created_on>
+            <sys_id>d9e344dc1ba0e1101e34fd131d4bcb2d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quick View" display_value="Quick View" name="x_dttm_hod_core_hod_patient_journey" sys_domain="global" view="Default view">bc4e3b481ba0e1101e34fd131d4bcb03</sys_ui_section>
+            <sys_updated_by>deloitte.dsoo</sys_updated_by>
+            <sys_updated_on>2023-01-18 03:32:17</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bed_number</element>
+            <position>7</position>
+            <sys_created_by>deloitte.dsoo</sys_created_by>
+            <sys_created_on>2023-01-18 03:32:17</sys_created_on>
+            <sys_id>dde344dc1ba0e1101e34fd131d4bcb2d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quick View" display_value="Quick View" name="x_dttm_hod_core_hod_patient_journey" sys_domain="global" view="Default view">bc4e3b481ba0e1101e34fd131d4bcb03</sys_ui_section>
+            <sys_updated_by>deloitte.dsoo</sys_updated_by>
+            <sys_updated_on>2023-01-18 03:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bed_type</element>
+            <position>8</position>
+            <sys_created_by>deloitte.dsoo</sys_created_by>
+            <sys_created_on>2023-01-18 03:32:17</sys_created_on>
+            <sys_id>d1e344dc1ba0e1101e34fd131d4bcb2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quick View" display_value="Quick View" name="x_dttm_hod_core_hod_patient_journey" sys_domain="global" view="Default view">bc4e3b481ba0e1101e34fd131d4bcb03</sys_ui_section>
+            <sys_updated_by>deloitte.dsoo</sys_updated_by>
+            <sys_updated_on>2023-01-18 03:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bed_classification</element>
+            <position>9</position>
+            <sys_created_by>deloitte.dsoo</sys_created_by>
+            <sys_created_on>2023-01-18 03:32:17</sys_created_on>
+            <sys_id>d5e344dc1ba0e1101e34fd131d4bcb2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quick View" display_value="Quick View" name="x_dttm_hod_core_hod_patient_journey" sys_domain="global" view="Default view">bc4e3b481ba0e1101e34fd131d4bcb03</sys_ui_section>
+            <sys_updated_by>deloitte.dsoo</sys_updated_by>
+            <sys_updated_on>2023-01-18 03:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>length_of_stay</element>
+            <position>10</position>
+            <sys_created_by>deloitte.dsoo</sys_created_by>
+            <sys_created_on>2023-01-18 03:32:17</sys_created_on>
+            <sys_id>d9e344dc1ba0e1101e34fd131d4bcb2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quick View" display_value="Quick View" name="x_dttm_hod_core_hod_patient_journey" sys_domain="global" view="Default view">bc4e3b481ba0e1101e34fd131d4bcb03</sys_ui_section>
+            <sys_updated_by>deloitte.dsoo</sys_updated_by>
+            <sys_updated_on>2023-01-18 03:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>encounter</element>
+            <position>11</position>
+            <sys_created_by>deloitte.dsoo</sys_created_by>
+            <sys_created_on>2023-01-18 03:32:17</sys_created_on>
+            <sys_id>dde344dc1ba0e1101e34fd131d4bcb2e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quick View" display_value="Quick View" name="x_dttm_hod_core_hod_patient_journey" sys_domain="global" view="Default view">bc4e3b481ba0e1101e34fd131d4bcb03</sys_ui_section>
+            <sys_updated_by>deloitte.dsoo</sys_updated_by>
+            <sys_updated_on>2023-01-18 03:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>diagnosis</element>
+            <position>12</position>
+            <sys_created_by>deloitte.dsoo</sys_created_by>
+            <sys_created_on>2023-01-18 03:32:17</sys_created_on>
+            <sys_id>d1e344dc1ba0e1101e34fd131d4bcb2f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quick View" display_value="Quick View" name="x_dttm_hod_core_hod_patient_journey" sys_domain="global" view="Default view">bc4e3b481ba0e1101e34fd131d4bcb03</sys_ui_section>
+            <sys_updated_by>deloitte.dsoo</sys_updated_by>
+            <sys_updated_on>2023-01-18 03:32:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hospitalisation</element>
+            <position>13</position>
+            <sys_created_by>deloitte.dsmith3</sys_created_by>
+            <sys_created_on>2023-02-02 01:16:00</sys_created_on>
+            <sys_id>a784f0c947b06110e6432c44846d436c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Quick View" display_value="Quick View" name="x_dttm_hod_core_hod_patient_journey" sys_domain="global" view="Default view">bc4e3b481ba0e1101e34fd131d4bcb03</sys_ui_section>
+            <sys_updated_by>deloitte.dsmith3</sys_updated_by>
+            <sys_updated_on>2023-02-02 01:16:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Quick View</caption>
+            <header>false</header>
+            <name>x_dttm_hod_core_hod_patient_journey</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>deloitte.dsoo</sys_created_by>
+            <sys_created_on>2023-01-18 03:07:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bc4e3b481ba0e1101e34fd131d4bcb03</sys_id>
+            <sys_name>x_dttm_hod_core_hod_patient_journey</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hospital On Duty Core" source="x_dttm_hod_core">cd0add7d1b329910a2b2db98b04bcb69</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hospital On Duty Core">cd0add7d1b329910a2b2db98b04bcb69</sys_scope>
+            <sys_update_name>sys_ui_section_bc4e3b481ba0e1101e34fd131d4bcb03</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
